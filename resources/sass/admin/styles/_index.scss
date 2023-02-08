@@ -1,0 +1,19 @@
+// Write (or import) your styles here
+.app-header.navbar .navbar-brand img {
+    max-width: 400px;
+    max-height: 40px;
+}
+
+.multiselect {
+    width: auto;
+    flex: 1;
+}
+
+.multiselect__tags {
+    height: 100%
+}
+
+select.form-control {
+    padding: 0 14px 0 0 !important;
+    font-size: 14px;
+}
